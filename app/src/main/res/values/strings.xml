@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="submit_button_text">Submit</string>
+    <!--Question 1 stuff-->
+    <string name="question_1_text">What is the best JRPG of all time?</string>
+    <string name="question_1_option_1">Final Fantasy VII</string>
+    <string name="question_1_option_2">Suikoden II</string>
+    <string name="question_1_option_3">Chrono Trigger</string>
+    <string name="question_1_option_4">Final Fantasy VI</string>
+    <string name="question_1_answer">Suikoden II</string>
+
+    <!--Question 2 stuff-->
+    <string name="question_2_text">Who is the best character in Suikoden II?</string>
+    <string name="question_2_option_1">The hero, of course</string>
+    <string name="question_2_option_2">Schtolteheim Reinbach III</string>
+    <string name="question_2_option_3">Nanami</string>
+    <string name="question_2_option_4">Gengen</string>
+    <string name="question_2_answer">Schtolteheim Reinbach III</string>
+
+    <!--Question 3 stuff-->
+    <string name="question_3_text">Where does Suikoden II take place?</string>
+    <string name="question_3_option_1">Scarlet Moon Empire</string>
+    <string name="question_3_option_2">Dunan Republic</string>
+    <string name="question_3_option_3">Kanakan</string>
+    <string name="question_3_option_4">City-States of Jowston</string>
+    <string name="question_3_answer">City-States of Jowston</string>
+
+    <!--Question 4 stuff-->
+    <string name="question_4_text">Should they make a new Suikoden game?</string>
+    <string name="question_4_option_1">Yes!</string>
+    <string name="question_4_option_2">Of course they should, you idiot</string>
+    <string name="question_4_option_3">I\'m not even going to dignify that with a response</string>
+    <string name="question_4_option_4">I wouldn\'t say no</string>
+    <string name="question_4_answer">anything</string>
+    <string name="score_header">score</string>
+    <string name="score_text">0</string>
+    <string name="possible_points_text">/4</string>
+</resources>
